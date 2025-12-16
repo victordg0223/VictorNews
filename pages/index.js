@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>você pode parar, chorar, esperniar, mas o tempo nunca nunca vai parar.</h1>
+    return <h3>você pode parar, chorar, esperniar, mas o tempo nunca nunca vai parar.</h3>
 }
 
 export default Home;
